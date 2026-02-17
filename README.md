@@ -1,9 +1,5 @@
 ### Olá eu sou o Márcio Ribeiro👋
 
-[![Blog](https://img.shields.io/badge/Mr.8-repairs-000?style=for-the-badge&logo=ghost&logoColor=yellow)](http://mr8repairs.com.br) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kait_m1/)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaitM1&show_icons=true&theme=dark)
 
 ## Tecnologias utilizadas no dia a dia
