@@ -25,7 +25,7 @@
 
 Estou atualmente construindo sistemas focados em regras de negócio complexas e alta performance:
 
-- 🏢 **SaaS Multi-tenant para Salões de Beleza** (Java, Spring Boot, PostgreSQL) - Foco em isolamento de dados e arquitetura multi-inquilino.
+- 🏢 **Motor SaaS Multi-tenant de Agendamento e Serviços (White-label)** (Java, Spring Boot, PostgreSQL) - Foco em isolamento de dados e arquitetura multi-inquilino.
 - 🛒 **Engine de E-commerce para Infoprodutos** (Python, Django, PostgreSQL) - Foco em fluxo de checkout estruturado e permissões de acesso.
 - 📊 **API de Analytics de Alta Performance** (Python, FastAPI, MongoDB) - Foco em velocidade de I/O e bancos de dados não relacionais.
 - ⚙️ **Microserviço Assíncrono** (Java, Spring Cloud, RabbitMQ) - Foco em mensageria e comunicação em arquiteturas distribuídas.
