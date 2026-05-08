@@ -34,4 +34,6 @@ Estou atualmente construindo sistemas focados em regras de negócio complexas e 
 
 ### 📈 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaitM1&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaitM1&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub" />
+</p>
